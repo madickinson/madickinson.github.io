@@ -38,10 +38,14 @@ p {
     color: #333;
 }
 ul {
-    font-size: 1em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    list-style-type: none;
     margin: 0;
     padding: 0;
+}
+ 
+li {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    border-bottom: 1px solid #ccc;
 }
 
 footer {
