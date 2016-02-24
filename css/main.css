@@ -38,14 +38,13 @@ p {
     color: #333;
 }
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin: 20px auto 40px; 
+    font-size: 1em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';;
 }
  
 li {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    border-bottom: 1px solid #ccc;
+    list-style-type: circle;
 }
 
 footer {
