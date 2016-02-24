@@ -1,2 +1,3 @@
 name: Matt Dickinson
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
