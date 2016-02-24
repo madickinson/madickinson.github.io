@@ -39,6 +39,7 @@ p {
 }
 ul {
   list-style-type: none;
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
   margin: 0;
   padding: 0;
 }
